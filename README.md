@@ -1,6 +1,6 @@
 # web_scraping-Intership_task
 
-Extracted various fields of information from housing website using web scraping. 
+Extracted various fields of information from housing website using web scraping. As the website requires redirecting to different url and scrolling and many other tasks, [Selenium](https://selenium-python.readthedocs.io/) is used in order to facilitate these tasks. There are 3 parameters required for the scroll function, they are driver, timeout (time to wait till next scroll) and number of times to scroll respectively. Set the number of times to scroll according to the number of data entries you require. Magicbricks loads 30 new houses everytime you scroll and reach the end of the website, so as I require information of 500 houses, I have set it as 18 (18 x30 = 540), and later I have kept 500 in the for loop for only information of 500 houses in the csv file.
 
 ## Python libraries used:
 > * [Selenium](https://selenium-python.readthedocs.io/)
