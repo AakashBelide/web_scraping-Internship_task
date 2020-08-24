@@ -16,26 +16,26 @@ Extracted various fields of information from housing website using web scraping.
 > * This is designed for only magicbricks. You can provide the searched url in a specific locality.
 > * Make sure you have good internet connection and keep the system on while the process takes place.
 > * You will get various pieces of information from the website like:
-* Price
-* Headline
-* Address
-* Owner
-* Bedrooms
-* Bathrooms
-* Balconies
-* Super area
-* Price Per sqft
-* Status
-* Transaction type
-* Floor
-* Car parking
-* Furnished
-* Lifts
-* Descrption
-* Price breakup
-* Address2
-* Landmarks
-* Age of Construction
-* Price comparison
-* Expected rent
-* Monthly EMI
+>> * Price
+>> * Headline
+>> * Address
+>> * Owner
+>> * Bedrooms
+>> * Bathrooms
+>> * Balconies
+>> * Super area
+>> * Price Per sqft
+>> * Status
+>> * Transaction type
+>> * Floor
+>> * Car parking
+>> * Furnished
+>> * Lifts
+>> * Descrption
+>> * Price breakup
+>> * Address2
+>> * Landmarks
+>> * Age of Construction
+>> * Price comparison
+>> * Expected rent
+>> * Monthly EMI
